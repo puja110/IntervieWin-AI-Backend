@@ -11,3 +11,6 @@ venv/
 
 # Config files to ignore
 config.json
+
+# macOS system files
+.DS_Store
